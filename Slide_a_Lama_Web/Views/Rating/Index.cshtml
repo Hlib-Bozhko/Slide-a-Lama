@@ -1,0 +1,80 @@
+﻿@model IEnumerable<Datas.Entity.Rating>
+@{
+    ViewData["Title"] = "Rating";
+}
+
+<body
+    background="/images/background.jpg">
+</body>
+
+<center>
+    <div id="showRating" style="display: none;">
+
+        @foreach (var rating in Model)
+        {
+            <p></p>
+            <center>
+                <h3>@rating.Name: @rating.mark</h3>
+            </center>
+        }
+        <button class="button" style="background: none; border: none" onclick="getQuestion();" value="1"><img src="/images/Back.png"></button>
+
+    </div>
+    <div id="rate" style="display: none;">
+        <form action="/Rating/SaveRate" method="post">
+            <img src="/images/enter your name.png"/> <input type="text" name="Name"/><br/>
+            <img src="/images/Enter your mark.png"/> <input type="number" name="Mark"/><br/>
+            <input type="image" name="picture" src="/images/submit.png" style="background: none; border: none" /><br />
+        </form>
+        <button class="button" style="background: none; border: none" onclick="getQuestion();" value="1"><img src="/images/Back.png"></button>
+
+    </div>
+
+    <div id="question">
+
+        <button class="button" style="background: none; border: none" onclick="showR();" value="1"><img src="/images/Show rating.png"></button>
+        <p></p>
+        <p></p>
+        <button class="button" style="background: none; border: none" onclick="rateIt();" value="1"><img src="/images/Rate.png"></button>
+
+        <p></p>
+        <button class="button" style="background: none; border: none" onclick=" clickButton(); setTimeout(() => {document.location.href = '/'}, 100)" value="1"><img src="/images/Back.png"></button>
+
+    </div>
+
+</center>
+
+<script>
+
+    var showRating = document.getElementById("showRating");
+    var rate = document.getElementById("rate");
+    var question = document.getElementById("question");
+
+    function showR() {
+        clickButton();
+        showRating.style.display = "block";
+        rate.style.display = "none";
+        question.style.display = "none";
+    }
+
+    function rateIt() {
+        clickButton();
+        showRating.style.display = "none";
+        rate.style.display = "block";
+        question.style.display = "none";
+    }
+
+    function getQuestion() {
+        clickButton();
+        showRating.style.display = "none";
+        rate.style.display = "none";
+        question.style.display = "block";
+    }
+
+    function clickButton() {
+        var audio = new Audio();
+        audio.src = '/sounds/Click button.wav';
+        audio.autoplay = true;
+    }
+
+</script>

@@ -1,0 +1,781 @@
+﻿++Решение "Slide-a-Lama" ‎(проекты: 4 из 4)
+i:{00000000-0000-0000-0000-000000000000}:Slide-a-Lama.sln
+++Slide_a_LamaTest
+i:{00000000-0000-0000-0000-000000000000}:Slide_a_LamaTest
+++Зависимости
+i:{abf3b057-cd32-4ecb-a088-3c1e198e462d}:>1125
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:>1566
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:>1126
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:>1567
+++UnitTest1.cs
+i:{abf3b057-cd32-4ecb-a088-3c1e198e462d}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lamatest\unittest1.cs
+++Анализаторы
+i:{abf3b057-cd32-4ecb-a088-3c1e198e462d}:анализаторы
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:анализаторы
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:анализаторы
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:анализаторы
+++Пакеты
+i:{abf3b057-cd32-4ecb-a088-3c1e198e462d}:пакеты
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:пакеты
+++Платформы
+i:{abf3b057-cd32-4ecb-a088-3c1e198e462d}:платформы
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:платформы
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:платформы
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:платформы
+++Проекты
+i:{abf3b057-cd32-4ecb-a088-3c1e198e462d}:проекты
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:проекты
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:проекты
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{abf3b057-cd32-4ecb-a088-3c1e198e462d}:c:\users\hp\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.15\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.15\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.15\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.15\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++coverlet.collector (3.1.2)
+i:{abf3b057-cd32-4ecb-a088-3c1e198e462d}:>1586
+++Microsoft.NET.Test.Sdk (16.5.0)
+i:{abf3b057-cd32-4ecb-a088-3c1e198e462d}:>1585
+++MSTest.TestAdapter (2.1.0)
+i:{abf3b057-cd32-4ecb-a088-3c1e198e462d}:>1587
+++MSTest.TestFramework (2.1.0)
+i:{abf3b057-cd32-4ecb-a088-3c1e198e462d}:>1584
+++Microsoft.NETCore.App
+i:{abf3b057-cd32-4ecb-a088-3c1e198e462d}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lamatest\microsoft.netcore.app
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\microsoft.netcore.app
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\microsoft.netcore.app
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\microsoft.netcore.app
+++Slide-a-Lama
+i:{abf3b057-cd32-4ecb-a088-3c1e198e462d}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\slide-a-lama.dll
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\slide-a-lama.dll
+i:{00000000-0000-0000-0000-000000000000}:Slide-a-Lama
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\slide-a-lama.csproj
+++Slide_a_Lama_Web
+i:{00000000-0000-0000-0000-000000000000}:Slide_a_Lama_Web
+++Connected Services 
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:>1568
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:>1569
+++Properties
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\properties\
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\properties\
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\properties\
+++wwwroot
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\
+++css
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\css\
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\css\
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\css\
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\css\
+++images
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\images\
+++js
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\js\
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\js\
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\js\
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\unix\lib\
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win\lib\
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\
+++favicon.ico
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\favicon.ico
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\favicon.ico
+++APIcontrollers
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\apicontrollers\
+++CommentController.cs
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\apicontrollers\commentcontroller.cs
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\apicontrollers\commentcontroller.cs
+++RatingController.cs
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\apicontrollers\ratingcontroller.cs
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\apicontrollers\ratingcontroller.cs
+++ScoreController.cs
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\apicontrollers\scorecontroller.cs
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\apicontrollers\scorecontroller.cs
+++Controllers
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\controllers\
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\controllers\
+++HomeController.cs
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\controllers\homecontroller.cs
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\controllers\homecontroller.cs
+++SaLController.cs
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\controllers\salcontroller.cs
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\controllers\salcontroller.cs
+++Models
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\models\
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\models\
+++ErrorViewModel.cs
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\models\errorviewmodel.cs
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\models\errorviewmodel.cs
+++Views
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\views\
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\views\
+++Home
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\views\home\
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\views\home\
+++SaL
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\views\sal\
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\views\sal\
+++Shared
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\views\shared\
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\views\shared\
+++_ViewImports.cshtml
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\views\_viewimports.cshtml
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\views\_viewstart.cshtml
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\views\_viewstart.cshtml
+++appsettings.json
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\appsettings.json
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\appsettings.json
+++Program.cs
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\program.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\ui\program.cs
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\program.cs
+++SessionExtensionsTuke.cs
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\sessionextensionstuke.cs
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\sessionextensionstuke.cs
+++Startup.cs
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\startup.cs
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\startup.cs
+++Зависимости службы не обнаружены
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:>1570
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:>1571
+++launchSettings.json
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\properties\launchsettings.json
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\properties\launchsettings.json
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\properties\launchsettings.json
+++site.css
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\css\site.css
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\css\site.css
+++site.js
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\js\site.js
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\js\site.js
+++bootstrap
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\
+++jquery
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\jquery\
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\jquery\
+++jquery-validation
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\jquery-validation\
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\jquery-validation-unobtrusive\
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\jquery-validation-unobtrusive\
+++Index.cshtml
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\views\home\index.cshtml
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\views\sal\index.cshtml
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\views\home\index.cshtml
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\views\sal\index.cshtml
+++Privacy.cshtml
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\views\home\privacy.cshtml
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\views\shared\_layout.cshtml
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\views\shared\_validationscriptspartial.cshtml
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\views\shared\error.cshtml
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\views\shared\error.cshtml
+++appsettings.Development.json
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\appsettings.development.json
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\appsettings.development.json
+++dist
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\jquery\dist\
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\jquery-validation\dist\
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\jquery\dist\
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\license
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\jquery\license.txt
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\jquery\license.txt
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\jquery-validation\license.md
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++Microsoft.AspNetCore.Analyzers
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\microsoft.aspnetcore.app
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\microsoft.aspnetcore.app
+++jquery.js
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\jquery\dist\jquery.js
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\jquery\dist\jquery.min.js
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\jquery\dist\jquery.min.map
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{13ef870b-8351-4780-bcc4-50eb5b023e58}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide_a_lama_web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++Импортирует
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:>1613
+++bin
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\
+++Core
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\
+++Migrations
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\migrations\
+++obj
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\
+++UI
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\ui\
+++Sdk.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\sdk\sdk.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Debug
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\debug\
+++Entity
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\entity\
+++Service
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\service\
+++Cube.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\cube.cs
+++Field.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\field.cs
+++GameState.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\gamestate.cs
+++Player.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\player.cs
+++20220330095950_Migration1.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\migrations\20220330095950_migration1.cs
+++20220412162847_Migration2_Comments.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\migrations\20220412162847_migration2_comments.cs
+++20220412175813_Migration3_Rating.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\migrations\20220412175813_migration3_rating.cs
+++SlideALamaDbContextModelSnapshot.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\migrations\slidealamadbcontextmodelsnapshot.cs
+++project.assets.json
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\project.assets.json
+++project.nuget.cache
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\project.nuget.cache
+++Slide-a-Lama.csproj.nuget.dgspec.json
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\slide-a-lama.csproj.nuget.dgspec.json
+++Slide-a-Lama.csproj.nuget.g.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\slide-a-lama.csproj.nuget.g.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\slide-a-lama.csproj.nuget.g.props
+++Slide-a-Lama.csproj.nuget.g.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\slide-a-lama.csproj.nuget.g.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\slide-a-lama.csproj.nuget.g.targets
+++ConsoleUi.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\ui\consoleui.cs
+++Menu.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\ui\menu.cs
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.15)
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:>1598
+++Microsoft.EntityFrameworkCore.Tools (5.0.15)
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:>1599
+++Microsoft.Common.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++netcoreapp3.1
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\debug\netcoreapp3.1\
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\
+++Comment.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\entity\comment.cs
+++Rating.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\entity\rating.cs
+++Score.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\entity\score.cs
+++Comments
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\service\comments\
+++Rates
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\service\rates\
+++Scores
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\service\scores\
+++Slide-a-LamaDbContext.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\service\slide-a-lamadbcontext.cs
+++20220330095950_Migration1.Designer.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\migrations\20220330095950_migration1.designer.cs
+++20220412162847_Migration2_Comments.Designer.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\migrations\20220412162847_migration2_comments.designer.cs
+++20220412175813_Migration3_Rating.Designer.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\migrations\20220412175813_migration3_rating.designer.cs
+++Microsoft.NuGet.ImportBefore.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Windows.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.windows.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++runtimes
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\
+++Humanizer.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\humanizer.dll
+++Microsoft.Data.SqlClient.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Extensions.Caching.Abstractions.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.extensions.caching.abstractions.dll
+++Microsoft.Extensions.Caching.Memory.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.extensions.caching.memory.dll
+++Microsoft.Extensions.Configuration.Abstractions.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.extensions.configuration.abstractions.dll
+++Microsoft.Extensions.DependencyInjection.Abstractions.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.extensions.dependencyinjection.abstractions.dll
+++Microsoft.Extensions.DependencyInjection.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.extensions.dependencyinjection.dll
+++Microsoft.Extensions.Logging.Abstractions.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.extensions.logging.abstractions.dll
+++Microsoft.Extensions.Logging.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.extensions.logging.dll
+++Microsoft.Extensions.Options.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.extensions.options.dll
+++Microsoft.Extensions.Primitives.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.extensions.primitives.dll
+++Microsoft.Identity.Client.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.identitymodel.tokens.dll
+++Microsoft.Win32.SystemEvents.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\microsoft.win32.systemevents.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\microsoft.win32.systemevents.dll
+++Newtonsoft.Json.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\newtonsoft.json.dll
+++score.bin
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\score.bin
+++Slide-a-Lama.deps.json
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\slide-a-lama.deps.json
+++Slide-a-Lama.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\slide-a-lama.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\debug\netcoreapp3.1\slide-a-lama.dll
+++Slide-a-Lama.exe
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\slide-a-lama.exe
+++Slide-a-Lama.pdb
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\slide-a-lama.pdb
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\debug\netcoreapp3.1\slide-a-lama.pdb
+++Slide-a-Lama.runtimeconfig.dev.json
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\slide-a-lama.runtimeconfig.dev.json
+++Slide-a-Lama.runtimeconfig.json
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\slide-a-lama.runtimeconfig.json
+++System.Collections.Immutable.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\system.collections.immutable.dll
+++System.ComponentModel.Annotations.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\system.componentmodel.annotations.dll
+++System.Configuration.ConfigurationManager.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\system.configuration.configurationmanager.dll
+++System.Diagnostics.DiagnosticSource.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\system.diagnostics.diagnosticsource.dll
+++System.Drawing.Common.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\system.drawing.common.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\system.drawing.common.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\system.drawing.common.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\system.identitymodel.tokens.jwt.dll
+++System.Runtime.Caching.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\system.runtime.caching.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\system.security.cryptography.protecteddata.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\system.security.permissions.dll
+++System.Windows.Extensions.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\system.windows.extensions.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\system.windows.extensions.dll
+++CommentServiceEF.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\service\comments\commentserviceef.cs
+++ICommentService.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\service\comments\icommentservice.cs
+++IRatingService.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\service\rates\iratingservice.cs
+++RatingServiceEF.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\service\rates\ratingserviceef.cs
+++IScoreService.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\service\scores\iscoreservice.cs
+++ScoreServiceEF.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\service\scores\scoreserviceef.cs
+++ScoreServiceFile.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\core\service\scores\scoreservicefile.cs
+++.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\debug\netcoreapp3.1\.netcoreapp,version=v3.1.assemblyattributes.cs
+++apphost.exe
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\debug\netcoreapp3.1\apphost.exe
+++Slide-a-Lama.AssemblyInfo.cs
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\debug\netcoreapp3.1\slide-a-lama.assemblyinfo.cs
+++Slide-a-Lama.AssemblyInfoInputs.cache
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\debug\netcoreapp3.1\slide-a-lama.assemblyinfoinputs.cache
+++Slide-a-Lama.assets.cache
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\debug\netcoreapp3.1\slide-a-lama.assets.cache
+++Slide-a-Lama.csproj.AssemblyReference.cache
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\debug\netcoreapp3.1\slide-a-lama.csproj.assemblyreference.cache
+++Slide-a-Lama.csproj.BuildWithSkipAnalyzers
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\debug\netcoreapp3.1\slide-a-lama.csproj.buildwithskipanalyzers
+++Slide-a-Lama.csproj.CopyComplete
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\debug\netcoreapp3.1\slide-a-lama.csproj.copycomplete
+++Slide-a-Lama.csproj.CoreCompileInputs.cache
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\debug\netcoreapp3.1\slide-a-lama.csproj.corecompileinputs.cache
+++Slide-a-Lama.csproj.FileListAbsolute.txt
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\debug\netcoreapp3.1\slide-a-lama.csproj.filelistabsolute.txt
+++Slide-a-Lama.GeneratedMSBuildEditorConfig.editorconfig
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\debug\netcoreapp3.1\slide-a-lama.generatedmsbuildeditorconfig.editorconfig
+++Slide-a-Lama.genruntimeconfig.cache
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\obj\debug\netcoreapp3.1\slide-a-lama.genruntimeconfig.cache
+++Microsoft.EntityFrameworkCore.Design.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\.nuget\packages\microsoft.entityframeworkcore.design\5.0.15\build\netcoreapp3.0\microsoft.entityframeworkcore.design.props
+++Microsoft.NuGet.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++unix
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\unix\
+++win
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win\
+++win-arm
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win-arm\
+++win-arm64
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win-arm64\
+++win-x64
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win-x64\
+++win-x86
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win-x86\
+++Microsoft.NET.ILLink.Tasks.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++native
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win-arm\native\
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win-arm64\native\
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win-x64\native\
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win-x86\native\
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.Cpp.VCLibs120Universal.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.cpp.vclibs120universal.targets
+++Microsoft.Net.CoreRuntime.ImportBefore.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.net.coreruntime.importbefore.targets
+++Microsoft.NetNative.ImportBefore.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.netnative.importbefore.targets
+++Slide-a-Lama.csproj.user
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\slide-a-lama.csproj.user
+++Microsoft.NET.props
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.DesktopBridge.ImportAfter.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.desktopbridge.importafter.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.Net.CoreRuntime.ImportAfter.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.coreruntime.importafter.targets
+++Microsoft.NetNative.ImportAfter.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.netnative.importafter.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.ImportAfter.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.visualstudio.azure.fabric.serviceproject.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Xamarin.Common.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\xamarin.common.targets
+++netcoreapp3.0
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\
+++netstandard2.0
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++Microsoft.Data.SqlClient.SNI.pdb
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win-arm\native\microsoft.data.sqlclient.sni.pdb
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.pdb
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win-x64\native\microsoft.data.sqlclient.sni.pdb
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\slide-a-lama\bin\debug\netcoreapp3.1\runtimes\win-x86\native\microsoft.data.sqlclient.sni.pdb
+++Microsoft.DesktopBridge.Common.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\desktopbridge\microsoft.desktopbridge.common.targets
+++Microsoft.Docker.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.targets
+i:{9d74dc76-01a5-487f-b742-006b1b56c05a}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\service fabric tools\microsoft.visualstudio.azure.fabric.serviceproject.targets
+++Slide_a_LamaWeb
+i:{00000000-0000-0000-0000-000000000000}:Slide_a_LamaWeb
+++APIControllers
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\apicontrollers\
+++1.png
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\images\1.png
+++2.png
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\images\2.png
+++3.png
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\images\3.png
+++4.png
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\images\4.png
+++5.png
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\images\5.png
+++6.png
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\images\6.png
+++7.png
+i:{fdd61dd0-8308-4a5b-873e-303ba9ade02f}:c:\users\hp\source\repos\dotnet-5659\src\slide-a-lama\npuzzleweb\wwwroot\images\7.png

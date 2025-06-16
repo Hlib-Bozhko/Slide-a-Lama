@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Datas.Entity.Comment>
+@{
+    ViewData["Title"] = "Comments";
+}
+
+<body
+    background="/images/background.jpg">
+</body>
+
+<center>
+
+    <div id="CommentN" style="display: none;">
+        <form action="/Comments/SaveComment" method="post">
+            <img src="/images/enter your name.png"/> <input type="text" name="Name"/><br/>
+            <img src="/images/Enter your comment.png"/> <textarea name="Text" cols="40" rows="5"></textarea><br/>
+            <input type="image" name="picture" src="/images/submit.png" style="background: none; border: none"/><br/>
+        </form>
+        <button class="button" style="background: none; border: none" onclick="getQuestion();" value="1"><img src="/images/Back.png"></button>
+
+    </div>
+
+    <div id="showComments" style="display: none;">
+
+        @foreach (var comment in Model)
+        {
+            <p>---------------------------------------------------</p>
+            <center>
+                <h3 style="word-break: break-all">@comment.Name:</h3>
+                <h2 style="word-break: break-all">@comment.Text</h2>
+            </center>
+
+        }
+        <button class="button" style="background: none; border: none" onclick="getQuestion();" value="1"><img src="/images/Back.png"></button>
+    </div>
+
+    <div id="question" style="display: block;">
+
+        <button class="button" style="background: none; border: none" onclick="showC();" value="1"><img src="/images/Show comments.png"></button>
+        <p></p>
+        <p></p>
+
+        <button class="button" style="background: none; border: none" onclick="commentIt();" value="1"><img src="/images/Comment.png"></button>
+        <p></p>
+        <button class="button" style="background: none; border: none" onclick=" clickButton(); document.location.href = '/';" value="1"><img src="/images/Back.png"></button>
+    </div>
+
+</center>
+
+<script>
+
+    var showComments = document.getElementById("showComments");
+    var CommentN = document.getElementById("CommentN");
+    var question = document.getElementById("question");
+
+    function showC() {
+        clickButton();
+        showComments.style.display = "block";
+        CommentN.style.display = "none";
+        question.style.display = "none";
+    }
+
+    function commentIt() {
+        clickButton();
+        showComments.style.display = "none";
+        CommentN.style.display = "block";
+        question.style.display = "none";
+    }
+
+    function getQuestion() {
+        clickButton();
+        showComments.style.display = "none";
+        CommentN.style.display = "none";
+        question.style.display = "block";
+    }
+
+    function clickButton() {
+        var audio = new Audio();
+        audio.src = '/sounds/Click button.wav';
+        audio.autoplay = true;
+    }
+
+</script>

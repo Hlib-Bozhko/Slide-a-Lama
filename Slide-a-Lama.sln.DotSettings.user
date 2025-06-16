@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files\dotnet\packs\Microsoft.AspNetCore.App.Ref\3.1.10\ref\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files\dotnet\packs\Microsoft.AspNetCore.App.Ref\3.1.10\ref\netcoreapp3.1\Microsoft.AspNetCore.Http.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files\dotnet\packs\Microsoft.AspNetCore.App.Ref\3.1.10\ref\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files\dotnet\packs\Microsoft.AspNetCore.App.Ref\3.1.10\ref\netcoreapp3.1\Microsoft.AspNetCore.Hosting.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=13EF870B_002D8351_002D4780_002DBCC4_002D50EB5B023E58_002Fd_003Awwwroot_002Fd_003Alib_002Fd_003Abootstrap_002Fd_003Adist_002Fd_003Ajs_002Ff_003Abootstrap_002Ebundle_002Ejs/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=13EF870B_002D8351_002D4780_002DBCC4_002D50EB5B023E58_002Fd_003Awwwroot_002Fd_003Alib_002Fd_003Abootstrap_002Fd_003Adist_002Fd_003Ajs_002Ff_003Abootstrap_002Ejs/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=13EF870B_002D8351_002D4780_002DBCC4_002D50EB5B023E58_002Fd_003Awwwroot_002Fd_003Alib_002Fd_003Ajquery_002Dvalidation_002Dunobtrusive_002Ff_003Ajquery_002Evalidate_002Eunobtrusive_002Ejs/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=13EF870B_002D8351_002D4780_002DBCC4_002D50EB5B023E58_002Fd_003Awwwroot_002Fd_003Alib_002Fd_003Ajquery_002Dvalidation_002Fd_003Adist_002Ff_003Aadditional_002Dmethods_002Ejs/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=13EF870B_002D8351_002D4780_002DBCC4_002D50EB5B023E58_002Fd_003Awwwroot_002Fd_003Alib_002Fd_003Ajquery_002Dvalidation_002Fd_003Adist_002Ff_003Ajquery_002Evalidate_002Ejs/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=13EF870B_002D8351_002D4780_002DBCC4_002D50EB5B023E58_002Fd_003Awwwroot_002Fd_003Alib_002Fd_003Ajquery_002Fd_003Adist_002Ff_003Ajquery_002Ejs/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=13efb54c_002Dbc10_002D414f_002D82fd_002Dc78eddaff16f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ScoreServiceTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::ABF3B057-CD32-4ECB-A088-3C1E198E462D::.NETCoreApp,Version=v3.1::Slide_a_LamaTest.ScoreServiceTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

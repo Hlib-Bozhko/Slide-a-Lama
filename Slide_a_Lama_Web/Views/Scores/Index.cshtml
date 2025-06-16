@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Datas.Entity.Score>
+@{
+    ViewData["Title"] = "Scores";
+}
+
+<body
+    background="/images/background.jpg">
+</body>
+
+<center>
+    <div>
+        
+            @foreach (var score in Model){
+                <p><h3>@score.Player @score.Points</h3></p>
+            }
+        
+        <button class="button" style="background: none; border: none" onclick=" clickButton(); setTimeout(() => {document.location.href = '/'});" value="1"><img src="/images/Back.png"></button>
+    </div>
+</center>
+
+<script>
+    function clickButton() {
+        var audio = new Audio(); 
+        audio.src = '/sounds/Click button.wav'; 
+        audio.autoplay = true; 
+        setTimeout(() => {}, 100);
+    }
+</script>
+

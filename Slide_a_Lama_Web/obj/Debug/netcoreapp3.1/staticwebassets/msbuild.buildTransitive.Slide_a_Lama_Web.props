@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Slide_a_Lama_Web.props" />
+</Project>

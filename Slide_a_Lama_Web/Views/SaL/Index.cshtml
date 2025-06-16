@@ -1,0 +1,114 @@
+﻿@using Slide_a_Lama
+@model Slide_a_Lama.Core.FieldAdapter
+
+<html>
+<body
+    background="/images/background.jpg">
+</body>
+
+<center>
+
+    <div id="win" style="display:none;">
+        <img src="/images/pl@(Model.CurrentPlayer.Team).png"/> <img src="/images/win.png"/>
+            
+        <p><img src="/images/Your score.png"/> @Model.CurrentPlayer.Score</p>
+        <form action="/SaL/SaveScore" method="post"> 
+            <img src="/images/enter your name.png"/> <input type="text" name="Name"/><br/>
+            <input type="image" name="picture" src="/images/submit.png" style="background: none; border: none"/><br/>
+        </form>
+        
+        @if (Model.ToMenu == true)
+        {
+            <script>
+                document.location.href = '/';
+            </script>
+
+        }
+    </div>
+
+</center>
+
+<div id="field">
+
+<center>
+    <img src="/images/pl@(Model.CurrentPlayer.Team).png"/>
+</center>
+
+
+<center>
+    <table >
+            <tr>
+                <td>
+                    <div id="field">
+                        @if (Model.GameState == GameState.WIN)
+                        {
+                            <script>
+                                
+                                var field = document.getElementById("field");
+                                var win = document.getElementById("win");
+
+                                    field.style.display = "none";
+                                    win.style.display = "block";
+
+                            </script>
+                        }
+                        <table >
+
+                            @for (var row = 0; row < Model.RowCount; row++)
+                            {
+                                <tr>
+                                    @for (var column = 0; column < Model.ColumnCount; column++)
+                                    {
+                                        @if (row == 0 || (column == Model.ColumnCount - 1 || column == 0))
+                                        {
+                                            <td>
+                                                <a href="/SaL/Move?row=@(row)&column=@(column)">
+                                                    <img align="middle" src="/images/img@(Model.GetCube(row, column).Value).jpg"/>
+                                                </a>
+                                            </td>
+                                        }
+                                        else
+                                        {
+                                            <td>
+                                                <img align="middle" src="/images/img@(Model.GetCube(row, column).Value).jpg"/>
+                                            </td>
+                                        }
+                                    }
+                                </tr>
+                            }
+                        </table >
+                    </div> 
+                </td>
+
+                <td>
+                    <div id="players">
+                        @for (int player = 0; player < Model.PlayersCount; player++)
+                        {
+                            <p><h3>Player @Model.Players[player].Team: @Model.Players[player].Score</h3></p>
+                        }
+                    </div>
+                </td>
+            </tr>
+        </table >
+
+    
+    <button class="button" id="putButton" style="background: none; border: none" onclick="putCube();" value="1"><img src="/images/b_pc.png"></button>
+    
+    <script>
+        function putCube(parameters) {
+            var audio = new Audio(); 
+            audio.src = '/sounds/Put cube.wav'; 
+            audio.autoplay = true;
+            document.getElementById("putButton").disabled = true;
+            setTimeout(() => { document.location.href = `/SaL/Put`;document.getElementById("MyButton").disabled = false }, 100);
+
+        }
+    </script>
+</center>
+
+    </div>
+</html>
+
+   
+
+

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Slide-a-Lama": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}

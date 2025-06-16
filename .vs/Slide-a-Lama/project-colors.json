@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9d74dc76-01a5-487f-b742-006b1b56c05a": {
+      "ProjectGuid": "9d74dc76-01a5-487f-b742-006b1b56c05a",
+      "DisplayName": "Slide-a-Lama",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "abf3b057-cd32-4ecb-a088-3c1e198e462d": {
+      "ProjectGuid": "abf3b057-cd32-4ecb-a088-3c1e198e462d",
+      "DisplayName": "Slide_a_LamaTest",
+      "ColorIndex": 1
+    },
+    "e8e42b76-454b-4751-a54e-58c068bb5460": {
+      "ProjectGuid": "e8e42b76-454b-4751-a54e-58c068bb5460",
+      "DisplayName": "Slide-a-LamaWeb",
+      "ColorIndex": 2
+    },
+    "8b3fe9bf-3bdb-4212-8b2c-54b2352c7d91": {
+      "ProjectGuid": "8b3fe9bf-3bdb-4212-8b2c-54b2352c7d91",
+      "DisplayName": "Slide_a_Lama_Web",
+      "ColorIndex": 3
+    },
+    "6dd60679-8f09-407e-9a1a-b631dfbdbd1b": {
+      "ProjectGuid": "6dd60679-8f09-407e-9a1a-b631dfbdbd1b",
+      "DisplayName": "Slide_a_Lama_Web",
+      "ColorIndex": 4
+    },
+    "a977f979-186a-47a7-8c07-1652041a9329": {
+      "ProjectGuid": "a977f979-186a-47a7-8c07-1652041a9329",
+      "DisplayName": "Slide_a_Lama_Web",
+      "ColorIndex": 5
+    },
+    "7b03e714-61dc-42be-9093-9f1c34db6565": {
+      "ProjectGuid": "7b03e714-61dc-42be-9093-9f1c34db6565",
+      "DisplayName": "Slide_a_Lama_Web",
+      "ColorIndex": 6
+    },
+    "bcbe2125-f2df-4bfc-8be3-4f564fe3e5fe": {
+      "ProjectGuid": "bcbe2125-f2df-4bfc-8be3-4f564fe3e5fe",
+      "DisplayName": "Slide_a_Lama_Web",
+      "ColorIndex": 7
+    },
+    "13ef870b-8351-4780-bcc4-50eb5b023e58": {
+      "ProjectGuid": "13ef870b-8351-4780-bcc4-50eb5b023e58",
+      "DisplayName": "Slide_a_Lama_Web",
+      "ColorIndex": 8
+    },
+    "fdd61dd0-8308-4a5b-873e-303ba9ade02f": {
+      "ProjectGuid": "fdd61dd0-8308-4a5b-873e-303ba9ade02f",
+      "DisplayName": "Slide_a_Lama_Web",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

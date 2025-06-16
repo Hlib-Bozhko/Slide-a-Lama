@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\dotnet-5659-main\src\Slide-a-Lama\Datas\bin\Debug\netstandard2.1\Datas.deps.json
+C:\Users\HP\Desktop\dotnet-5659-main\src\Slide-a-Lama\Datas\bin\Debug\netstandard2.1\Datas.dll
+C:\Users\HP\Desktop\dotnet-5659-main\src\Slide-a-Lama\Datas\bin\Debug\netstandard2.1\Datas.pdb
+C:\Users\HP\Desktop\dotnet-5659-main\src\Slide-a-Lama\Datas\obj\Debug\netstandard2.1\Datas.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\dotnet-5659-main\src\Slide-a-Lama\Datas\obj\Debug\netstandard2.1\Datas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\dotnet-5659-main\src\Slide-a-Lama\Datas\obj\Debug\netstandard2.1\Datas.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\dotnet-5659-main\src\Slide-a-Lama\Datas\obj\Debug\netstandard2.1\Datas.AssemblyInfo.cs
+C:\Users\HP\Desktop\dotnet-5659-main\src\Slide-a-Lama\Datas\obj\Debug\netstandard2.1\Datas.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\dotnet-5659-main\src\Slide-a-Lama\Datas\obj\Debug\netstandard2.1\Datas.dll
+C:\Users\HP\Desktop\dotnet-5659-main\src\Slide-a-Lama\Datas\obj\Debug\netstandard2.1\Datas.pdb

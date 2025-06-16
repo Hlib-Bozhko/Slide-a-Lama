@@ -1,0 +1,92 @@
+﻿@{
+    ViewData["Title"] = "Raiting";
+}
+
+<body
+    background="/images/background.jpg">
+    
+</body>
+<script>
+    function toggle()
+    {
+        var audio = new Audio(); 
+        audio.src = '/sounds/Click button.wav'; 
+        audio.autoplay = true;
+
+        var top = document.getElementById("top");
+        var bottom = document.getElementById("bottom");
+
+        if (top.style.display == "none")
+        {
+            top.style.display = "block";
+            bottom.style.display = "none";
+        }
+        else
+        {
+            top.style.display = "none";
+            bottom.style.display = "block";
+        }
+    }
+</script>
+
+<div id="top" style="display:none;">
+    <center>
+        <img src="/images/Number of players.png"/> <input type="number" id="players" name="Player"/><br/>
+        <img src="/images/Number of points needed to win.png"/> <input type="number" id="points" name="Points"/><br/>
+
+        <script>
+            function goPlay() {
+                var numOfPl = document.getElementById("players").value;
+                var numOfPo = document.getElementById("points").value;
+                clickButton(`/SaL?playerCount=${numOfPl}&winScore=${numOfPo}`);
+            }
+        </script>
+
+        <button class="button" onclick="goPlay();" style="background: none; border: none" value="1"><img src="/images/play2.png"></button>
+    </center>
+
+   
+
+</div>
+<div id="bottom">
+    <center>
+        
+        <div style="line-height:1.7;">
+            <img src="/images/Logo.png"/>
+        </div>
+        <div style="line-height: 1.5;">
+            <style>
+                .button{
+                    background: none;
+                    border: none;
+                } 
+            </style>
+            <button class="button" onclick="toggle();" value="1"><img src="/images/play_button.png"></button>
+        </div>
+        <div style="line-height:1.2;">
+            <a href="#" onclick="clickButton('/scores');"> 
+                <img src="/images/Scores_button.png"/>
+            </a> 
+        </div>
+        <div style="line-height:1.2;">
+            <a href="#" onclick="clickButton('/Rating');"> 
+                <img src="/images/Raiting_button.png"/>
+            </a> 
+        </div>
+        <div style="line-height:1.2;">
+            <a href="#" onclick="clickButton('/Comments');"> 
+                <img src="/images/Comments_button.png"/>
+            </a> 
+        </div>
+         
+    </center>
+</div>
+
+<script>
+    function clickButton(link) {
+        var audio = new Audio(); 
+        audio.src = '/sounds/Click button.wav'; 
+        audio.autoplay = true; 
+        setTimeout(() => {document.location.href = link}, 100);
+    }
+</script>
